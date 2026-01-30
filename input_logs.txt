@@ -1,0 +1,15 @@
+ERROR Database connection failed
+ERROR Database timeout occurred
+ERROR Disk read failure
+ERROR Disk write failure
+ERROR Network unreachable
+ERROR Login failed from 192.168.1.10
+ERROR Login failed from 192.168.1.10
+ERROR Login failed from 192.168.1.11
+ERROR Login failed from 192.168.1.12
+WARNING High memory usage
+WARNING CPU usage above threshold
+ERROR Application crashed unexpectedly
+ERROR Service restart failed
+ERROR Permission denied while accessing file
+ERROR Configuration file missing
